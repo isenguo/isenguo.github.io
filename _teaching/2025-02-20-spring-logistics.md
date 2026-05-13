@@ -1,7 +1,6 @@
 ---
-title: "Logistics Technology and Equipment 物流技术装备"
+title: "Logistics Technology and Equipment 物流技术与装备"
 collection: teaching
-date: 2025-02-17
 type: "undergraduate course"
 permalink: /teaching/2025-spring-logistics
 venue: "Zhengzhou University, School of Management"
